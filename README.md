@@ -30,6 +30,9 @@ Politicians (German Federal Election 2025)
 ~149,000 posts
 Candidates and party accounts related to the 2025 Bundestag election
 
+Database can be found and requested here:
+Berg, J. (2026). Instagram-Beiträge aus dem Bundestagswahlkampf 2025 [Datensatz]. Universität Regensburg. https://doi.org/10.5283/epub.78978
+Berg, J. (2026). Instagram-Beiträge von Prominenten aus den USA und Deutsch-land [Datensatz]. Universität Regensburg. https://doi.org/10.5283/epub.78663
 
 
 The datasets are documented separately and available via DOI (see paper).
