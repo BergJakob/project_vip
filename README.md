@@ -1,9 +1,11 @@
 Celebrities and Political Communication on Instagram
+
 This repository contains the code and analysis scripts for the paper:
 “German Celebrities and Political Communication on Social Media – Opinion Leadership and Endorsements”
 Jakob Berg (University of Regensburg)
 
 Project Overview
+
 This project analyzes political communication by celebrities on Instagram in Germany and the United States, as well as the performance effects of celebrity support in the political communication of German politicians during the 2025 federal election campaign.
 The study examines:
 The frequency of political communication by celebrities (Germany vs. United States)
